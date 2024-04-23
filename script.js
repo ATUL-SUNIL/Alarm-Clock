@@ -88,4 +88,4 @@ setAlarmButton.addEventListener('click', setAlarm);
 setInterval(updateClock, 1000);
 setInterval(checkAlarm, 1000);
 
-//comment
+
