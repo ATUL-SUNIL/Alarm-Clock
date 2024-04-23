@@ -87,3 +87,5 @@ setAlarmButton.addEventListener('click', setAlarm);
 // Update current time every second
 setInterval(updateClock, 1000);
 setInterval(checkAlarm, 1000);
+
+//comment
